@@ -1,0 +1,11 @@
+body{
+  height: 100vh;
+}
+
+iframe{
+  width: 100%;
+}
+
+canvas .spline-watermark{
+  opacity: 0 !important;
+}
